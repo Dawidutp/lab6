@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
     int iloscLiczb;
 
     printf("Podaj ile liczb chcesz pomnozyc: ");
@@ -25,6 +23,3 @@ int main()
     }
     printf(" = %f",wynik);
 
-
-    return 0;
-}
