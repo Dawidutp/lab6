@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+void silnia(){
 int n,x, num=1;
 printf("Podaj liczbe z ktorej chcez uzyskac silnie:");
 scanf("%d",&x);
