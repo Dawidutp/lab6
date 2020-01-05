@@ -4,7 +4,7 @@
 
 void Pierwiastek()
 {
-    float x
+    float x;
     printf("Podaj liczbe: ");
     scanf("%f", &x);
 
