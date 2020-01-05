@@ -1,1 +1,1 @@
-# lab6
+Opracowanie #lab6
