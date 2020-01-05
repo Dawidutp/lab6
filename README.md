@@ -1,2 +1,1 @@
-Opracowanie #lab6
-Prosty kalkulator w Języku C ,realizujący takie operacje jak dodawanie, odejmowanie, mnożenie, dzielenie, pierwiastkowanie, potęgowanie, oraz silnię. Każde działanie w osobnej funkcji a każda funkcja w osobnym pliku źródłowym.
+Projekt który tutaj utorzyliśmy to prosty kalkulator w Języku C. Realizuje on takie operacje jak: dodawanie, odejmowanie, mnożenie, dzielenie, pierwiastkowanie, potęgowanie, oraz silnię. Program składa się z pliku "main", a każda z funkcji fukcji znajduje się w osobnym pliku źródłowym. 
