@@ -11,5 +11,4 @@ scanf("%d",&x);
     }
 printf("Twoja silnia to: %d", num);
 getche();
-return 0;
 }

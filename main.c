@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "dodawanie.c"
-//#include "odejmowanie.c"
+#include "odejmowanie.c"
 #include "mnozenie.c"
 #include "dzielenie.c"
 #include "pierwiastek.c"
@@ -22,6 +22,7 @@ int main()
             Dodawanie();
         break;
         case 2 :
+            odejmowanie();
         break;
         case 3 :
             Mnozenie();
